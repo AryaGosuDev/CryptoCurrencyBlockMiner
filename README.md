@@ -1,0 +1,1 @@
+#Project OpenCL Crypto Miner and Miner Pool Software Development
